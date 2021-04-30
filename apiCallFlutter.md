@@ -46,3 +46,7 @@ ListView.builder(
       },
     ));
 ```
+## Errors I encountered
+* forget about list length
+* int toDouble()
+* setstate()
