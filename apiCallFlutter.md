@@ -1,7 +1,7 @@
 ## Step 1
 Create your model from [Here](https://javiercbk.github.io/json_to_dart/)
 ## Step 2
-Copy the model into a new dart file 
+Copy the model into a new dart file (make datatype into dynamic)
 ## Step 3
 Create a stateful widget and import [http](https://pub.dev/packages/http) package 
 ## Step 4
