@@ -1,9 +1,9 @@
 ## Step 1
-Create your model from [Here](https://javiercbk.github.io/json_to_dart/)![](https://github.com/Grigary-C-Antony/my_cheatsheets/raw/main/assets/2021-05-01%2012_23_42-JSON%20to%20Dart.png)
+Create your model from [Here](https://javiercbk.github.io/json_to_dart/) <br> ![](https://github.com/Grigary-C-Antony/my_cheatsheets/raw/main/assets/2021-05-01%2012_23_42-JSON%20to%20Dart.png)
 ## Step 2
-Copy the model into a new dart file (make datatype into dynamic)
+Copy the model into a new dart file (make datatype into dynamic) <br> ![](https://github.com/Grigary-C-Antony/my_cheatsheets/raw/main/assets/2021-05-01%2012_35_42-model.dart%20-%20desktopapp%20-%20Visual%20Studio%20Code.png)
 ## Step 3
-Create a stateful widget and import [http](https://pub.dev/packages/http) package 
+Create a stateful widget and import [http](https://pub.dev/packages/http) package <br> ![](https://github.com/Grigary-C-Antony/my_cheatsheets/raw/main/assets/Untitled-1.png)
 ## Step 4
 
 ```
